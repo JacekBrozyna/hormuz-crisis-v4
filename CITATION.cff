@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+title: "Data for: Energy shocks and financial market resilience: the impact of the Strait of Hormuz crisis on V4 economies"
+type: dataset
+version: 1.0.0
+date-released: 2026-09-28
+license: CC-BY-4.0
+repository-code: "https://github.com/JacekBrozyna/hormuz-crisis-v4"
+authors:
+  - family-names: "Brożyna"
+    given-names: "Jacek"
+    email: "jacek.brozyna@prz.edu.pl"
+    affiliation: "Rzeszów University of Technology"
+  - family-names: "Strielkowski"
+    given-names: "Wadim"
+keywords:
+  - Strait of Hormuz
+  - energy shock
+  - Visegrád Group
+  - event study
+  - DCC-GARCH
+  - financial contagion
