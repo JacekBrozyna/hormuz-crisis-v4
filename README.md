@@ -1,5 +1,7 @@
 # Data for: Energy shocks and financial market resilience: the impact of the Strait of Hormuz crisis on V4 economies
 
+[![DOI](https://zenodo.org/badge/1393386055.svg)](https://doi.org/10.5281/zenodo.23023787)
+
 This repository contains the derived data series used in the article:
 
 > Brożyna, J., Strielkowski, W. *Energy shocks and financial market resilience: the impact of the Strait of Hormuz crisis on V4 economies.* Manuscript submitted to *Humanities and Social Sciences Communications*.
@@ -69,4 +71,8 @@ The data in this repository are released under the [Creative Commons Attribution
 
 ## Citation
 
-If you use these data, please cite the article above (full reference will be added upon publication) and this dataset (DOI to be added).
+If you use these data, please cite the article above (full reference will be added upon publication) and this dataset:
+
+> Brożyna, J., Strielkowski, W. (2026). *Data for: Energy shocks and financial market resilience: the impact of the Strait of Hormuz crisis on V4 economies* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23023787
+
+This DOI always resolves to the latest version. To cite a specific version, use its version DOI listed on Zenodo (e.g. v1.0.0: https://doi.org/10.5281/zenodo.23023788).
